@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Basic assets from top-down template
+Content/__ExternalActors__
+Content/__ExternalObjects__
+Content/Characters
+Content/CUrsor
+Content/LevelPrototyping
+Content/TopDown
